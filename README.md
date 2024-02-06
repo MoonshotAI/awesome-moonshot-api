@@ -6,8 +6,10 @@ A curated list of open-source projects related to [Moonshot API](https://platfor
 - [https://github.com/langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 - [https://github.com/run-llama/llama_index](https://github.com/run-llama/llama_index)
 - [https://github.com/openai-translator/openai-translator](https://github.com/openai-translator/openai-translator)
+- [https://github.com/langgenius/dify](https://github.com/langgenius/dify)
 - [https://github.com/chathub-dev/chathub](https://github.com/chathub-dev/chathub)
 - [https://github.com/lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+- [https://github.com/InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou)
 - [https://github.com/koishijs/koishi](https://github.com/koishijs/koishi)
 - [https://github.com/nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 
