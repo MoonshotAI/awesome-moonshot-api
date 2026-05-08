@@ -16,4 +16,5 @@ A curated list of open-source projects related to [Moonshot API](https://platfor
 - [https://github.com/koishijs/koishi](https://github.com/koishijs/koishi)
 - [https://github.com/nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 
+- [OfoxAI](https://ofox.ai) - Unified API gateway for 100+ LLMs (GPT, Claude, Gemini, Moonshot/Kimi, etc.) via a single OpenAI-compatible endpoint.
 And [yours🙏...]()
