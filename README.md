@@ -15,5 +15,6 @@ A curated list of open-source projects related to [Moonshot API](https://platfor
 - [https://github.com/InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou)
 - [https://github.com/koishijs/koishi](https://github.com/koishijs/koishi)
 - [https://github.com/nonebot/nonebot2](https://github.com/nonebot/nonebot2)
+- [https://github.com/CoWork-OS/CoWork-OS](https://github.com/CoWork-OS/CoWork-OS)
 
 And [yours🙏...]()
