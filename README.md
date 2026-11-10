@@ -15,5 +15,7 @@ A curated list of open-source projects related to [Moonshot API](https://platfor
 - [https://github.com/InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou)
 - [https://github.com/koishijs/koishi](https://github.com/koishijs/koishi)
 - [https://github.com/nonebot/nonebot2](https://github.com/nonebot/nonebot2)
+- [https://github.com/khmuhtadin/1toolring-mcp](https://github.com/khmuhtadin/1toolring-mcp) - 1ToolRing: remote MCP server (Streamable HTTP, OAuth 2.1 or API key) that gives any MCP client, including Kimi Playground and Kimi CLI, one prepaid key for thousands of pay-per-call tools from third-party providers: web search, maps and places, shopping and prices, market data, web pages, images and weather.
+- [https://github.com/khmuhtadin/api-indonesia-examples](https://github.com/khmuhtadin/api-indonesia-examples) - API Indonesia: remote MCP server and REST API for official Indonesian public data (regions, holidays, prayer times, schools, hospitals, earthquakes, weather, exchange rates, minimum wage), usable from any MCP client including Kimi.
 
 And [yours🙏...]()
